@@ -26,5 +26,7 @@ A seguir será demostrado como joga-lo:
 ![Display](./Imagens/jogo.PNG)
 
 * Para reproduzir a sequência em que as cores acenderam, serão utilizadas as teclas I para cor verde, O para amarelo, K para vermelho e L para azul. Todas as teclas em letra maiúscula, outras teclas serão consideradas erradas. Vale lembrar que não é necessário clicar a tecla 'enter' após a opção desejada.
+* Prontinho! Agora só se divertir e exercitar sua memória com o Genius!
+
 
 
