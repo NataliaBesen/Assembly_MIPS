@@ -2,4 +2,4 @@
 
 Genius é um jogo de memorização, popular da década de 1980. O modo de jogo que será reproduzido, consiste em memorizar a sequência em que os botões se acendem e reproduzi-la em seguida. 
 
-![Genius](https://m.media-amazon.com/images/I/614UDTGGknL._AC_SL1500_.jpg)
+![Genius](https://rihappy.vtexassets.com/arquivos/ids/210529-800-auto?v=634804657283000000&width=800&height=auto&aspect=true)
