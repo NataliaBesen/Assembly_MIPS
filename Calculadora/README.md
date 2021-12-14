@@ -6,7 +6,7 @@ Essa aplicação funciona como uma calculadora, na qual as operações são cumu
 
 Após cada opção selecionada o menu é exibido novamente, até que o usuário seleciona a opção '7- Sair do programa'. Ao selecionar a opção '1' é possível visualizar o resultado dos cálculos realizados, já a opção '2' zera o acumulador e permite iniciar os cálculos novamente. 
 
-O exemplo a baixo demonstra o funcionamento da calculadora:
+O exemplo abaixo demonstra o funcionamento da calculadora:
 
 ![Exemplo](./exemplo.PNG)
 
